@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\dao\\gdldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\dao\\gdldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|c:\\users\\admin\\desktop\\edustats\\edustats\\edustats\\dao\\csdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\dao\\csdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\dao\\hddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\dao\\hddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\estructuras\\cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\estructuras\\cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\dataset\\dsgdl.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\dataset\\dsgdl.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\dataset\\dshd.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\dataset\\dshd.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\estructuras\\tms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\estructuras\\tms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\estructuras\\hd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\estructuras\\hd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\estructuras\\gdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\estructuras\\gdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\dao\\tmsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\dao\\tmsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\frminiciodesesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\frminiciodesesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\frminiciodesesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\frminiciodesesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\formularios\\frmpaginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\formularios\\frmpaginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\frmregistrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\frmregistrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\frmregistrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\frmregistrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\dataset\\dstms.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\dataset\\dstms.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\dataset\\dscs.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\dataset\\dscs.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\reportes\\rpttemporadamayorsolicitud.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\reportes\\rpttemporadamayorsolicitud.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\formularios\\frmreportestms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\formularios\\frmreportestms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\formularios\\frmreporteshd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\formularios\\frmreporteshd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\formularios\\frmreportesgdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\formularios\\frmreportesgdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\formularios\\frmreportescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\formularios\\frmreportescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\formularios\\frmregsitrohd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\formularios\\frmregsitrohd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\formularios\\frmregistrotms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\formularios\\frmregistrotms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\formularios\\frmregistrogdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\formularios\\frmregistrogdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\formularios\\frmregistrocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\formularios\\frmregistrocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\formularios\\frmregsitrohd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\formularios\\frmregsitrohd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\formularios\\frmregistrocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\formularios\\frmregistrocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\formularios\\frmregistrotms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\formularios\\frmregistrotms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\formularios\\frmregistrogdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\formularios\\frmregistrogdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\formularios\\frmpaginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\formularios\\frmpaginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\reportes\\rptcarrerasolicita.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\reportes\\rptcarrerasolicita.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\reportes\\rptgenerodelibromasprestado.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\reportes\\rptgenerodelibromasprestado.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\reportes\\rpthorasdiarias.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\reportes\\rpthorasdiarias.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\servicios\\csarchivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\servicios\\csarchivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\servicios\\tmsarchivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\servicios\\tmsarchivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\servicios\\hdarchivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\servicios\\hdarchivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\edustats\\servicios\\gdlarchivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B75603-4DB6-446E-84BF-967E234D682F}|EduStats\\EduStats.csproj|solutionrelative:edustats\\servicios\\gdlarchivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmInicioDeSesion.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\frmInicioDeSesion.cs",
+              "RelativeDocumentMoniker": "EduStats\\frmInicioDeSesion.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\frmInicioDeSesion.cs",
+              "RelativeToolTip": "EduStats\\frmInicioDeSesion.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAWwDUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:22:26.785Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSDao.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Dao\\CSDao.cs",
+              "RelativeDocumentMoniker": "EduStats\\Dao\\CSDao.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Dao\\CSDao.cs",
+              "RelativeToolTip": "EduStats\\Dao\\CSDao.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAADgv2YAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:51:36.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GDL.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Estructuras\\GDL.cs",
+              "RelativeDocumentMoniker": "EduStats\\Estructuras\\GDL.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Estructuras\\GDL.cs",
+              "RelativeToolTip": "EduStats\\Estructuras\\GDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:22:39.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HD.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Estructuras\\HD.cs",
+              "RelativeDocumentMoniker": "EduStats\\Estructuras\\HD.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Estructuras\\HD.cs",
+              "RelativeToolTip": "EduStats\\Estructuras\\HD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:13:15.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TMS.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Estructuras\\TMS.cs",
+              "RelativeDocumentMoniker": "EduStats\\Estructuras\\TMS.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Estructuras\\TMS.cs",
+              "RelativeToolTip": "EduStats\\Estructuras\\TMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:13:16.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DsHD.xsd",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\DataSet\\DsHD.xsd",
+              "RelativeDocumentMoniker": "EduStats\\DataSet\\DsHD.xsd",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\DataSet\\DsHD.xsd",
+              "RelativeToolTip": "EduStats\\DataSet\\DsHD.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-25T04:32:08.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DsGDL.xsd",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\DataSet\\DsGDL.xsd",
+              "RelativeDocumentMoniker": "EduStats\\DataSet\\DsGDL.xsd",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\DataSet\\DsGDL.xsd",
+              "RelativeToolTip": "EduStats\\DataSet\\DsGDL.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-21T22:24:11.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HDDao.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Dao\\HDDao.cs",
+              "RelativeDocumentMoniker": "EduStats\\Dao\\HDDao.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Dao\\HDDao.cs",
+              "RelativeToolTip": "EduStats\\Dao\\HDDao.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAWwGcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:05:58.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GDLDao.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Dao\\GDLDao.cs",
+              "RelativeDocumentMoniker": "EduStats\\Dao\\GDLDao.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Dao\\GDLDao.cs",
+              "RelativeToolTip": "EduStats\\Dao\\GDLDao.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAWwGgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:24:28.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CS.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Estructuras\\CS.cs",
+              "RelativeDocumentMoniker": "EduStats\\Estructuras\\CS.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Estructuras\\CS.cs",
+              "RelativeToolTip": "EduStats\\Estructuras\\CS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:55:14.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TMSDao.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Dao\\TMSDao.cs",
+              "RelativeDocumentMoniker": "EduStats\\Dao\\TMSDao.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Dao\\TMSDao.cs",
+              "RelativeToolTip": "EduStats\\Dao\\TMSDao.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADgv2IAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:24:21.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmPaginaPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmPaginaPrincipal.cs",
+              "RelativeDocumentMoniker": "EduStats\\Formularios\\frmPaginaPrincipal.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmPaginaPrincipal.cs [Design]",
+              "RelativeToolTip": "EduStats\\Formularios\\frmPaginaPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:28:01.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmRegistrate.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\frmRegistrate.cs",
+              "RelativeDocumentMoniker": "EduStats\\frmRegistrate.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\frmRegistrate.cs",
+              "RelativeToolTip": "EduStats\\frmRegistrate.cs",
+              "ViewState": "AgIAACsAAAAQEXOhVWAgwDIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:27:06.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmRegistrate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\frmRegistrate.cs",
+              "RelativeDocumentMoniker": "EduStats\\frmRegistrate.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\frmRegistrate.cs [Design]",
+              "RelativeToolTip": "EduStats\\frmRegistrate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:26:59.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmInicioDeSesion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\frmInicioDeSesion.cs",
+              "RelativeDocumentMoniker": "EduStats\\frmInicioDeSesion.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\frmInicioDeSesion.cs [Design]",
+              "RelativeToolTip": "EduStats\\frmInicioDeSesion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:34:24.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\packages.config",
+              "RelativeDocumentMoniker": "EduStats\\packages.config",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\packages.config",
+              "RelativeToolTip": "EduStats\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-02T02:31:18.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DsCS.xsd",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\DataSet\\DsCS.xsd",
+              "RelativeDocumentMoniker": "EduStats\\DataSet\\DsCS.xsd",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\DataSet\\DsCS.xsd",
+              "RelativeToolTip": "EduStats\\DataSet\\DsCS.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-29T01:50:14.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DsTMS.xsd",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\DataSet\\DsTMS.xsd",
+              "RelativeDocumentMoniker": "EduStats\\DataSet\\DsTMS.xsd",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\DataSet\\DsTMS.xsd",
+              "RelativeToolTip": "EduStats\\DataSet\\DsTMS.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-25T04:32:04.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "rptTemporadaMayorSolicitud.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Reportes\\rptTemporadaMayorSolicitud.rdlc",
+              "RelativeDocumentMoniker": "EduStats\\Reportes\\rptTemporadaMayorSolicitud.rdlc",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Reportes\\rptTemporadaMayorSolicitud.rdlc [Design]",
+              "RelativeToolTip": "EduStats\\Reportes\\rptTemporadaMayorSolicitud.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-25T04:34:20.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmReportesTMS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmReportesTMS.cs",
+              "RelativeDocumentMoniker": "EduStats\\Formularios\\frmReportesTMS.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmReportesTMS.cs [Design]",
+              "RelativeToolTip": "EduStats\\Formularios\\frmReportesTMS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:33:50.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmReportesHD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmReportesHD.cs",
+              "RelativeDocumentMoniker": "EduStats\\Formularios\\frmReportesHD.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmReportesHD.cs [Design]",
+              "RelativeToolTip": "EduStats\\Formularios\\frmReportesHD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:34:18.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmReportesGDL.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmReportesGDL.cs",
+              "RelativeDocumentMoniker": "EduStats\\Formularios\\frmReportesGDL.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmReportesGDL.cs [Design]",
+              "RelativeToolTip": "EduStats\\Formularios\\frmReportesGDL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:48:45.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmReportesCS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmReportesCS.cs",
+              "RelativeDocumentMoniker": "EduStats\\Formularios\\frmReportesCS.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmReportesCS.cs [Design]",
+              "RelativeToolTip": "EduStats\\Formularios\\frmReportesCS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:38:17.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmRegsitroHD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegsitroHD.cs",
+              "RelativeDocumentMoniker": "EduStats\\Formularios\\frmRegsitroHD.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegsitroHD.cs [Design]",
+              "RelativeToolTip": "EduStats\\Formularios\\frmRegsitroHD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:12:44.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmRegistroTMS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegistroTMS.cs",
+              "RelativeDocumentMoniker": "EduStats\\Formularios\\frmRegistroTMS.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegistroTMS.cs [Design]",
+              "RelativeToolTip": "EduStats\\Formularios\\frmRegistroTMS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:51:08.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmRegistroGDL.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegistroGDL.cs",
+              "RelativeDocumentMoniker": "EduStats\\Formularios\\frmRegistroGDL.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegistroGDL.cs [Design]",
+              "RelativeToolTip": "EduStats\\Formularios\\frmRegistroGDL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:12:35.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmRegistroCS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegistroCS.cs",
+              "RelativeDocumentMoniker": "EduStats\\Formularios\\frmRegistroCS.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegistroCS.cs [Design]",
+              "RelativeToolTip": "EduStats\\Formularios\\frmRegistroCS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:12:39.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmRegsitroHD.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegsitroHD.cs",
+              "RelativeDocumentMoniker": "EduStats\\Formularios\\frmRegsitroHD.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegsitroHD.cs",
+              "RelativeToolTip": "EduStats\\Formularios\\frmRegsitroHD.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:43:32.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmRegistroCS.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegistroCS.cs",
+              "RelativeDocumentMoniker": "EduStats\\Formularios\\frmRegistroCS.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegistroCS.cs",
+              "RelativeToolTip": "EduStats\\Formularios\\frmRegistroCS.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAqwKYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:43:52.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmRegistroTMS.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegistroTMS.cs",
+              "RelativeDocumentMoniker": "EduStats\\Formularios\\frmRegistroTMS.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegistroTMS.cs",
+              "RelativeToolTip": "EduStats\\Formularios\\frmRegistroTMS.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAYwKgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:10:50.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmRegistroGDL.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegistroGDL.cs",
+              "RelativeDocumentMoniker": "EduStats\\Formularios\\frmRegistroGDL.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmRegistroGDL.cs",
+              "RelativeToolTip": "EduStats\\Formularios\\frmRegistroGDL.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAqwI4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:44:25.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmPaginaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmPaginaPrincipal.cs",
+              "RelativeDocumentMoniker": "EduStats\\Formularios\\frmPaginaPrincipal.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Formularios\\frmPaginaPrincipal.cs",
+              "RelativeToolTip": "EduStats\\Formularios\\frmPaginaPrincipal.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA2wDgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:39:06.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "rptHorasDiarias.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Reportes\\rptHorasDiarias.rdlc",
+              "RelativeDocumentMoniker": "EduStats\\Reportes\\rptHorasDiarias.rdlc",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Reportes\\rptHorasDiarias.rdlc [Design]",
+              "RelativeToolTip": "EduStats\\Reportes\\rptHorasDiarias.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-25T04:40:12.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "rptGeneroDeLibroMasPrestado.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Reportes\\rptGeneroDeLibroMasPrestado.rdlc",
+              "RelativeDocumentMoniker": "EduStats\\Reportes\\rptGeneroDeLibroMasPrestado.rdlc",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Reportes\\rptGeneroDeLibroMasPrestado.rdlc [Design]",
+              "RelativeToolTip": "EduStats\\Reportes\\rptGeneroDeLibroMasPrestado.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-25T04:34:55.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "rptCarreraSolicita.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Reportes\\rptCarreraSolicita.rdlc",
+              "RelativeDocumentMoniker": "EduStats\\Reportes\\rptCarreraSolicita.rdlc",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Reportes\\rptCarreraSolicita.rdlc [Design]",
+              "RelativeToolTip": "EduStats\\Reportes\\rptCarreraSolicita.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-29T02:38:51.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CSArchivoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Servicios\\CSArchivoServicio.cs",
+              "RelativeDocumentMoniker": "EduStats\\Servicios\\CSArchivoServicio.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Servicios\\CSArchivoServicio.cs",
+              "RelativeToolTip": "EduStats\\Servicios\\CSArchivoServicio.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:15:03.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TMSArchivoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Servicios\\TMSArchivoServicio.cs",
+              "RelativeDocumentMoniker": "EduStats\\Servicios\\TMSArchivoServicio.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Servicios\\TMSArchivoServicio.cs",
+              "RelativeToolTip": "EduStats\\Servicios\\TMSArchivoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:14:57.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HDArchivoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Servicios\\HDArchivoServicio.cs",
+              "RelativeDocumentMoniker": "EduStats\\Servicios\\HDArchivoServicio.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Servicios\\HDArchivoServicio.cs",
+              "RelativeToolTip": "EduStats\\Servicios\\HDArchivoServicio.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:59:59.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GDLArchivoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Servicios\\GDLArchivoServicio.cs",
+              "RelativeDocumentMoniker": "EduStats\\Servicios\\GDLArchivoServicio.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EduStats\\EduStats\\EduStats\\Servicios\\GDLArchivoServicio.cs",
+              "RelativeToolTip": "EduStats\\Servicios\\GDLArchivoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:25:26.274Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

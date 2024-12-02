@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsCS" targetNamespace="http://tempuri.org/DsCS.xsd" xmlns:mstns="http://tempuri.org/DsCS.xsd" xmlns="http://tempuri.org/DsCS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsCS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DsCS" msprop:Generator_DataSetName="DsCS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="csDT" msprop:Generator_RowEvHandlerName="csDTRowChangeEventHandler" msprop:Generator_RowDeletedName="csDTRowDeleted" msprop:Generator_RowDeletingName="csDTRowDeleting" msprop:Generator_RowEvArgName="csDTRowChangeEvent" msprop:Generator_TablePropName="csDT" msprop:Generator_RowChangedName="csDTRowChanged" msprop:Generator_RowChangingName="csDTRowChanging" msprop:Generator_TableClassName="csDTDataTable" msprop:Generator_RowClassName="csDTRow" msprop:Generator_TableVarName="tablecsDT" msprop:Generator_UserTableName="csDT">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Mes" msprop:Generator_ColumnPropNameInRow="Mes" msprop:Generator_ColumnPropNameInTable="MesColumn" msprop:Generator_ColumnVarNameInTable="columnMes" msprop:Generator_UserColumnName="Mes" type="xs:string" minOccurs="0" />
+              <xs:element name="Carrera" msprop:Generator_ColumnPropNameInRow="Carrera" msprop:Generator_ColumnPropNameInTable="CarreraColumn" msprop:Generator_ColumnVarNameInTable="columnCarrera" msprop:Generator_UserColumnName="Carrera" type="xs:string" minOccurs="0" />
+              <xs:element name="NumeroDeLibrosSolicitados" msprop:Generator_ColumnPropNameInRow="NumeroDeLibrosSolicitados" msprop:Generator_ColumnPropNameInTable="NumeroDeLibrosSolicitadosColumn" msprop:Generator_ColumnVarNameInTable="columnNumeroDeLibrosSolicitados" msprop:Generator_UserColumnName="NumeroDeLibrosSolicitados" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

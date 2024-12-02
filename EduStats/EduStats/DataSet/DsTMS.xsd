@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsTMS" targetNamespace="http://tempuri.org/DsTMS.xsd" xmlns:mstns="http://tempuri.org/DsTMS.xsd" xmlns="http://tempuri.org/DsTMS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsTMS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DsTMS" msprop:Generator_DataSetName="DsTMS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tmsDT" msprop:Generator_RowEvHandlerName="tmsDTRowChangeEventHandler" msprop:Generator_RowDeletedName="tmsDTRowDeleted" msprop:Generator_RowDeletingName="tmsDTRowDeleting" msprop:Generator_RowEvArgName="tmsDTRowChangeEvent" msprop:Generator_TablePropName="tmsDT" msprop:Generator_RowChangedName="tmsDTRowChanged" msprop:Generator_RowChangingName="tmsDTRowChanging" msprop:Generator_TableClassName="tmsDTDataTable" msprop:Generator_RowClassName="tmsDTRow" msprop:Generator_TableVarName="tabletmsDT" msprop:Generator_UserTableName="tmsDT">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_UserColumnName="ID" type="xs:int" minOccurs="0" />
+              <xs:element name="Libro" msprop:Generator_ColumnPropNameInRow="Libro" msprop:Generator_ColumnPropNameInTable="LibroColumn" msprop:Generator_ColumnVarNameInTable="columnLibro" msprop:Generator_UserColumnName="Libro" type="xs:string" minOccurs="0" />
+              <xs:element name="PrestacionesPorLibro" msprop:Generator_ColumnPropNameInRow="PrestacionesPorLibro" msprop:Generator_ColumnPropNameInTable="PrestacionesPorLibroColumn" msprop:Generator_ColumnVarNameInTable="columnPrestacionesPorLibro" msprop:Generator_UserColumnName="PrestacionesPorLibro" type="xs:int" minOccurs="0" />
+              <xs:element name="Mes" msprop:Generator_ColumnPropNameInRow="Mes" msprop:Generator_ColumnPropNameInTable="MesColumn" msprop:Generator_ColumnVarNameInTable="columnMes" msprop:Generator_UserColumnName="Mes" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
